@@ -14,8 +14,8 @@ return array(
             'guild leader',
             'leader',
             'officer',
-            'adviser',
-            'advisor',
+            
+           
             'veteran',
             'trusted',
             'trusted member',
